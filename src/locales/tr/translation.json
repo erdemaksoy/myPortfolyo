@@ -1,0 +1,439 @@
+{
+    "welcome": "Portfolyoma hoş geldiniz",
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "skills": "Yeteneklerim",
+    "fields": "Alanlarım",
+    "qualification": "Eğitimim",
+    "projects": "Projelerim",
+    "contact": "İletişim",
+    "software_engineer": "Yazılım Mühendisi",
+    "description": "22 yaşında, yazılım mühendisiyim. Yeni teknolojilere hızlıca uyum sağlayabilirim. Her yazılım teknolojisinde kendimi geliştirmeye ve yeni şeyler öğrenmeye çalışıyorum.",
+    "say_hello": "Merhaba De",
+    "scroll_down": "Aşağı Kaydır",
+    "about_me": "Hakkımda",
+    "my_introduction": "Kendimi tanıtayım",
+    "about_description_1": "2024 yılında, Yazılım Mühendisliği bölümünden 3.35 GPA ile mezun oldum. Hırslıyım ve hızlı öğrenirim, takım çalışması, çoklu görev ve üretkenlik konularında başarılıyım. Yeni şeyler öğrenmeye tutkuluyum ve her gün kendimi geliştirmeye çalışıyorum.",
+    "about_description_2": "<div class='about__skills-list'><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-brackets-curly'></i>Sistem Programlama</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>Yüksek performanslı algoritmalar ve veri yapıları</li><li><i class='uil uil-check-circle'></i>Bellek optimizasyonu ve yönetimi</li><li><i class='uil uil-check-circle'></i>Masaüstü arayüzleri ve gömülü sistemler</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-web-grid'></i>Web Frontend</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>Responsive ve dinamik kullanıcı arayüzleri</li><li><i class='uil uil-check-circle'></i>Modern animasyonlar ve etkileşimli bileşenler</li><li><i class='uil uil-check-circle'></i>Performans optimizasyonu ve SEO uyumlu yapılar</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-mobile-android'></i>Mobil Geliştirme</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>Cross-platform mobil uygulamalar</li><li><i class='uil uil-check-circle'></i>Native özellikler ve donanım entegrasyonları</li><li><i class='uil uil-check-circle'></i>Performans odaklı mobil deneyimler</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-server-network'></i>Backend</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>RESTful ve gRPC API tasarımı ve geliştirme</li><li><i class='uil uil-check-circle'></i>Mikroservis mimarileri</li><li><i class='uil uil-check-circle'></i>Ölçeklenebilir ve güvenli sistemler</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-cloud'></i>Cloud & DevOps</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>Cloud tabanlı mimari tasarımı</li><li><i class='uil uil-check-circle'></i>CI/CD süreçleri ve otomasyonu</li><li><i class='uil uil-check-circle'></i>Konteynerizasyon ve orkestrasyon</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-store'></i>Market Süreçleri</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>Uygulama mağazası optimizasyonu</li><li><i class='uil uil-check-circle'></i>Sürüm yönetimi ve dağıtım stratejileri</li><li><i class='uil uil-check-circle'></i>Kullanıcı geri bildirim analizi</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-cloud-computing'></i>Cloud Hizmetleri</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>Yüksek erişilebilirlik ve felaket kurtarma</li><li><i class='uil uil-check-circle'></i>Otomatik ölçeklendirme çözümleri</li><li><i class='uil uil-check-circle'></i>Güvenlik ve uyumluluk standartları</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-database'></i>Veritabanı</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>İlişkisel ve NoSQL veritabanı tasarımı</li><li><i class='uil uil-check-circle'></i>Performans optimizasyonu ve sorgu iyileştirme</li><li><i class='uil uil-check-circle'></i>Veri modelleme ve normalizasyon</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-desktop'></i>İşletim Sistemleri</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>Çoklu platform geliştirme ve dağıtım</li><li><i class='uil uil-check-circle'></i>Sistem yapılandırması ve optimizasyonu</li><li><i class='uil uil-check-circle'></i>Shell scripting ve otomasyon</li></ul></div></div><p style='text-align:center; margin-top: 2rem;'>Modern yazılım geliştirme prensipleriyle sürdürülebilir, ölçeklenebilir projeler üretiyorum.</p>",
+    "download_cv": "CV İndir",
+    "languages": "Diller",
+    "tools": "Araçlar",
+    "active_used": "Aktif Kullanılan",
+    "completed": "Tamamlanan",
+    "projects_count": "15 + Proje",
+    "learns_easily": "Kolay Öğrenir",
+    "experienced": "Tüm alanlarda deneyimli",
+    "my_technical_level": "Teknik Seviyem",
+    "what_i_do": "Neler Yapıyorum?",
+    "view_more": "Daha Fazla",
+    "technologies_used": "Kullanılan Teknolojiler",
+    "related_projects": "İlgili Projeler",
+    "view_code": "Kodu Gör",
+    "view_project": "Projeyi Gör",
+    "language_descriptions": {
+        "C": "C dilinde temel algoritma ve veri yapıları konusunda deneyimim bulunmaktadır.",
+        "C++": "Sistem programlama alanında güçlü bir temelim var. Özellikle bellek yönetimi, heap ve stack optimizasyonu konularında deneyimliyim. Sıralama algoritmaları (QuickSort, MergeSort, HeapSort) ve arama algoritmaları (Binary Search, DFS, BFS) üzerinde çalıştım. STL kütüphanesini etkin kullanarak performans odaklı çözümler geliştiriyorum.",
+        "C#": "C# ile .NET Framework ve .NET Core uygulamaları geliştirdim.",
+        "QML": "QT framework'ü ile gömülü sistem arayüzleri geliştiriyorum.",
+        "React": "Modern ve interaktif web uygulamaları geliştirme konusunda uzmanım.",
+        "React Native": "Expo ve CLI workflow'larını kullanarak cross-platform mobil uygulamalar geliştiriyorum. Native modüller, performans optimizasyonu ve özel animasyonlar konusunda deneyimliyim. Expo'nun sunduğu servisleri (notifications, updates, build) etkin şekilde kullanıyorum.",
+        "Flutter": "Performanslı ve kullanıcı dostu cross-platform mobil uygulamalar geliştiriyorum.",
+        "Dart": "Dart programlama dilini Flutter framework'ü ile birlikte kullandım.",
+        "HTML5": "Semantik HTML yapıları oluşturarak SEO dostu ve erişilebilir web uygulamaları geliştiriyorum. Canvas, WebSocket, Local Storage gibi modern HTML5 özelliklerini aktif kullanıyorum.",
+        "CSS3": "Modern CSS özellikleri (Grid, Flexbox, Custom Properties) ile responsive ve mobil öncelikli tasarımlar oluşturuyorum. CSS animasyonları, transitions ve transforms ile kullanıcı deneyimini zenginleştiriyorum. SCSS/SASS ile modüler ve sürdürülebilir stil yapıları kuruyorum.",
+        "JavaScript": "ES6+ özelliklerini kullanarak modern JavaScript uygulamaları geliştiriyorum. Asenkron programlama (Promises, async/await), modül sistemi ve modern DOM manipülasyonu konularında uzmanım. Event-driven programlama ve performans optimizasyonu yapıyorum.",
+        "TypeScript": "Tip güvenli kod yapısı ile büyük ölçekli uygulamalar geliştiriyorum. Interface, Generic types, Decorators gibi gelişmiş TypeScript özelliklerini kullanarak kod kalitesini artırıyorum. Strict type checking ile hata olasılığını minimize ediyorum.",
+        "PHP": "Nesne yönelimli PHP ile modern web uygulamaları geliştiriyorum. PSR standartlarına uygun kod yazıyor, Composer ile paket yönetimi yapıyorum. PHP-FPM ve OpCache optimizasyonları ile performans iyileştirmeleri sağlıyorum.",
+        "Laravel": "MVC mimarisinde web uygulamaları ve RESTful API'ler geliştiriyorum. Eloquent ORM, Queue sistemleri ve Cache mekanizmalarını etkin kullanıyorum. Blade template engine ile dinamik görünümler oluşturuyorum.",
+        "Python": "Veri analitiği ve backend sistemleri geliştiriyorum.",
+        "Java": "Native Android uygulamaları ve backend sistemleri geliştiriyorum.",
+        "Kotlin": "Modern Android uygulamaları geliştiriyorum.",
+        "Spring Boot": "Mikroservis mimarileri ve RESTful API'ler geliştiriyorum. Spring Security ile güvenli kimlik doğrulama ve yetkilendirme sistemleri kuruyorum. JPA/Hibernate ile veritabanı işlemlerini optimize ediyorum.",
+        ".NET": ".NET Core ile yüksek performanslı web uygulamaları ve API'ler geliştiriyorum. Entity Framework Core ile ORM tabanlı veritabanı yönetimi yapıyorum. Dependency Injection ve Clean Architecture prensiplerine uygun projeler geliştiriyorum.",
+        "SQL": "Kompleks veritabanı sorguları ve optimizasyonları yapıyorum. Stored procedure, trigger ve index yapılarını etkin kullanıyorum. Query optimization ve execution plan analizi ile performans iyileştirmeleri gerçekleştiriyorum.",
+        "Node.js": "Yüksek performanslı backend sistemleri ve API'ler geliştiriyorum. Event-driven mimariler ve non-blocking I/O ile ölçeklenebilir uygulamalar oluşturuyorum.",
+        "Go": "Temel seviyede mikroservis uygulamaları geliştiriyorum. Goroutines ve channels ile concurrent programlama yapıyorum."
+    },
+    "tool_descriptions": {
+        "VsCode": "Ana geliştirme ortamı olarak kullanıyorum. Özel eklentiler ve snippetler ile geliştirme sürecimi optimize ediyorum. Git entegrasyonu ve debugging özelliklerini aktif kullanıyorum.",
+        "Visual Studio": ".NET projelerini geliştiriyorum.",
+        "Android Studio": "Native Android uygulamaları ve React Native projeleri için kullanıyorum. Emülatör yönetimi, performans profiling ve debugging araçlarını etkin şekilde kullanıyorum.",
+        "QT Creator": "Gömülü sistem arayüzleri geliştiriyorum.",
+        "Bootstrap": "Responsive web tasarımları için kullanıyorum. Grid sistemi, hazır komponentler ve utility sınıfları ile hızlı prototipleme yapıyorum. SCSS ile özelleştirmeler yaparak marka kimliğine uygun tasarımlar oluşturuyorum.",
+        "Tailwind CSS": "Utility-first yaklaşımı ile özelleştirilebilir ve performanslı UI tasarımları yapıyorum. JIT compiler kullanarak bundle size optimizasyonu sağlıyorum. Custom plugin ve tema yapılandırmaları oluşturuyorum.",
+        "Rive": "İnteraktif animasyonlar oluşturuyorum.",
+        "MongoDB": "NoSQL veritabanı çözümleri geliştiriyorum.",
+        "MySQL": "İlişkisel veritabanı yönetimi için tercih ediyorum. Normalizasyon, indexleme ve query optimizasyonu konularında deneyimliyim. Replication ve backup stratejileri uyguluyorum.",
+        "MSSQL": "Kurumsal veritabanı çözümleri oluşturuyorum.",
+        "PostgreSQL": "Kompleks veri yapıları ve büyük ölçekli uygulamalar için kullanıyorum. JSON veri tipi, full-text search ve spatial data özelliklerini aktif kullanıyorum.",
+        "Redis": "Yüksek performanslı önbellekleme çözümleri geliştiriyorum.",
+        "Firebase": "Realtime Database, Authentication ve Cloud Messaging servislerini kullanıyorum. Hosting ve Storage çözümleri ile tam kapsamlı backend altyapısı kuruyorum.",
+        "Azure": "Cloud tabanlı çözümler geliştiriyorum.",
+        "AWS": "Ölçeklenebilir cloud servisleri kullanıyorum.",
+        "Docker": "Konteynerize uygulamalar geliştiriyorum. Mikroservis mimarileri için Docker Compose kullanarak çoklu konteyner yapıları oluşturuyorum. CI/CD süreçlerine Docker entegrasyonu yaparak sürekli dağıtım sağlıyorum.",
+        "OneSignal": "Cross-platform push notification sistemleri entegre ediyorum. Segment bazlı ve zamanlanmış bildirimler oluşturuyor, analitik veriler topluyorum.",
+        "Elasticsearch": "Gelişmiş arama çözümleri implementasyonu yapıyorum.",
+        "SonarQube": "Kod kalitesi ve güvenlik analizi yapıyorum.",
+        "Ubuntu": "Linux tabanlı geliştirme ve deployment ortamı olarak kullanıyorum. Shell scripting, servis yönetimi ve güvenlik yapılandırmaları yapıyorum.",
+        "Windows": "Windows tabanlı geliştirme ortamı olarak kullanıyorum. PowerShell scripting ve WSL ile Linux araçlarını entegre ediyorum.",
+        "macOS": "Temel seviyede macOS kullanıyorum."
+    },
+    "services": {
+        "linux": {
+            "title": "Linux",
+            "description": "Linux sistem yönetimi ve yapılandırması konularında deneyimliyim. Virtual Machine Manager, Proxmox Mail Gateway gibi araçlarla sistemler kurup optimize ediyorum.",
+            "features": [
+                "Linux sistem kurulumu ve yapılandırması",
+                "Manjaro, Ubuntu gibi dağıtımlarda deneyim",
+                "Virtual Machine Manager ile sanallaştırma"
+            ],
+            "projects": {
+                "virtual_machine": {
+                    "name": "Virtual Machine Manager ile Sunucu Kurulumu",
+                    "description": "Sanal makineler üzerinde Linux sistem kurulum ve yönetimi."
+                },
+                "mail_server": {
+                    "name": "Mail Sunucusu",
+                    "description": "Odoo mail sunucusu ve Proxmox Mail Gateway ile anti-spam yapılandırması."
+                }
+            }
+        },
+        "seo": {
+            "title": "SEO",
+            "description": "Web uygulamalarının SEO uyumluluğunu optimize ederek daha erişilebilir ve görünür hale getiriyorum.",
+            "features": [
+                "SEO uyumlu web geliştirme",
+                "Performans iyileştirme ve sayfa hızı optimizasyonu",
+                "Meta veri ve yapılandırılmış veri yönetimi"
+            ],
+            "projects": {
+                "portfolio_website": {
+                    "name": "Kişisel Portföy Sitesi",
+                    "description": "SEO dostu, hızlı yüklenen kişisel portföy web sitesi geliştirme."
+                }
+            }
+        },
+        "party_integrations": {
+            "title": "3. Parti Entegrasyonları",
+            "description": "Farklı platformlarla (ödeme, bildirim, harita) entegre sistemler geliştiriyorum.",
+            "features": [
+                "Iyzico, Papara ödeme sistemleri entegrasyonu",
+                "OneSignal ve Expo push bildirimleri",
+                "Firebase Realtime Database entegrasyonu",
+                "Google Maps API entegrasyonu"
+            ],
+            "projects": {
+                "ecommerce_api": {
+                    "name": "Ödeme Entegrasyonlu API",
+                    "description": "E-ticaret için iyzico ve Papara ödeme entegrasyonlu backend API geliştirme."
+                },
+                "notification_service": {
+                    "name": "Bildirim Servisi",
+                    "description": "OneSignal ve Expo Push ile bildirim altyapısı geliştirme."
+                }
+            }
+        },
+        "restful": {
+            "title": "RESTful API",
+            "description": "Laravel ve .NET Core kullanarak güvenli, ölçeklenebilir RESTful API'ler geliştiriyorum.",
+            "features": [
+                "API tasarımı ve geliştirme",
+                "MS SQL, MySQL gibi veritabanı entegrasyonları",
+                "Swagger/OpenAPI ile dokümantasyon oluşturma"
+            ],
+            "projects": {
+                "ecommerce_api": {
+                    "name": "E-Ticaret API",
+                    "description": "Laravel ile geliştirilen ürün, sipariş ve kullanıcı yönetimi API'si."
+                },
+                "customer_verification": {
+                    "name": "Müşteri Sorgulama API",
+                    "description": "Flutter tabanlı uygulama için gerçek zamanlı müşteri veri doğrulama sistemi."
+                }
+            }
+        },
+        "flutter": {
+            "title": "Mobil",
+            "description": "Flutter kullanarak Android ve iOS platformlarına yönelik etkili ve performanslı mobil uygulamalar geliştiriyorum.",
+            "features": [
+                "Çapraz platform uygulama geliştirme",
+                "Firebase ile gerçek zamanlı veri yönetimi",
+                "Push bildirim entegrasyonu"
+            ],
+            "projects": {
+                "chat_app": {
+                    "name": "Gerçek Zamanlı Sohbet Uygulaması",
+                    "description": "Firebase Realtime Database entegrasyonu ile Android/iOS sohbet uygulaması geliştirme."
+                },
+                "customer_query_app": {
+                    "name": "Müşteri Veri Sorgulama Uygulaması",
+                    "description": "Veri görselleştirme özellikleriyle müşteri veri yönetimi."
+                }
+            }
+        },
+        "react": {
+            "title": "React ve React Native ile WEB & Mobil",
+            "description": "React ve React Native kullanarak hem web hem de mobil platformlar için modern, hızlı ve kullanıcı dostu arayüzler geliştiriyorum. Web projelerinde duyarlı ve ölçeklenebilir UI'lar, mobil projelerde ise çeşitli özgün uygulamalar (çapraz bulmaca, adım sayar, Spotify API entegrasyonlu uygulamalar gibi) geliştirerek deneyimi zenginleştiriyorum.",
+            "features": [
+                "Duyarlı web ve mobil UI geliştirme",
+                "Bileşen tabanlı mimari ile ölçeklenebilir yapı",
+                "Redux ve Context API ile durum yönetimi",
+                "Mobil uygulamalarda cihaz özellikleri ve API entegrasyonları"
+            ],
+            "projects": {
+                "portfolio": {
+                    "name": "Kişisel Portföy",
+                    "description": "React ile geliştirilen SEO uyumlu ve duyarlı portföy web sitesi."
+                },
+                "admin_dashboard": {
+                    "name": "Yönetim Paneli",
+                    "description": "React tabanlı yönetici paneli ve veri görselleştirme dashboard'u."
+                },
+                "mobile_apps": {
+                    "name": "Mobil Uygulamalar",
+                    "description": "React Native ile çapraz bulmaca, adım sayar ve Spotify API entegrasyonlu mobil uygulamalar geliştirme."
+                }
+            }
+        },
+        "database": {
+            "title": "Veritabanı",
+            "description": "SQL ve NoSQL veritabanları ile performanslı, güvenli veri çözümleri geliştiriyorum.",
+            "features": [
+                "MS SQL Server, MySQL, PostgreSQL yönetimi",
+                "Veri modelleme ve normalizasyon",
+                "Redis ile önbellekleme çözümleri"
+            ],
+            "projects": {
+                "schema_design": {
+                    "name": "Veritabanı Şema Tasarımı",
+                    "description": "MS SQL üzerinde optimize veri yapıları tasarlama."
+                },
+                "nosql_project": {
+                    "name": "NoSQL Veri Yapıları",
+                    "description": "MongoDB kullanarak veri yapıları oluşturma ve yönetimi."
+                }
+            }
+        },
+        "algorithms": {
+            "title": "C++, QT, Java ile Algoritmalar",
+            "description": "C++, QT ve Java kullanarak yüksek performanslı, gerçek zamanlı ve gömülü sistemler için algoritmalar ve sistem yazılımları geliştiriyorum. Bellek yönetimi, heap/stack optimizasyonu, gerçek zamanlı veri işleme ve çoklu thread yönetimi gibi konularda uzmanlaştım.",
+            "features": [
+                "Gerçek zamanlı hedef izleme ve veri işleme algoritmaları",
+                "Bellek yönetimi ve heap/stack optimizasyonu",
+                "Sıralama ve arama algoritmaları (ör. radar, sensör verisi)",
+                "Gömülü sistemler için düşük seviyeli optimizasyonlar",
+                "Çoklu thread ve concurrency yönetimi"
+            ],
+            "projects": {
+                "memory_management": {
+                    "name": "Gelişmiş Bellek Yönetimi Modülü",
+                    "description": "Heap ve stack üzerinde dinamik bellek yönetimi sağlayan modül."
+                },
+                "realtime_tracking": {
+                    "name": "Gerçek Zamanlı Takip Sistemi",
+                    "description": "Sensör verilerinin hızlı sıralama ve arama algoritmaları ile işlenmesi."
+                },
+                "embedded_optimization": {
+                    "name": "Gömülü Sistem Optimizasyonları",
+                    "description": "QT ve C++ ile gömülü sistemlerde performans artırıcı algoritmalar."
+                }
+            }
+        },
+        "webDev": {
+            "title": "Web Geliştirme",
+            "description": "React, Laravel, Node.js gibi teknolojilerle kurumsal ve e-ticaret siteleri için modern web projeleri geliştiriyorum.",
+            "features": [
+                "Duyarlı web tasarımı ve geliştirme",
+                "Frontend çerçeveleri: React, Angular",
+                "Node.js, PHP ile backend geliştirme",
+                "Socket.IO ile gerçek zamanlı iletişim"
+            ],
+            "projects": {
+                "corporate_and_ecommerce_website": {
+                    "name": "Kurumsal ve E-Ticaret Web Siteleri",
+                    "description": "Kurumsal kimliklere ve satış odaklı e-ticaret yapısına uygun tam yığın web projeleri."
+                },
+                "realtime_chat_web": {
+                    "name": "Gerçek Zamanlı Web Chat",
+                    "description": "Socket.IO kullanarak gerçek zamanlı sohbet altyapısı geliştirme."
+                }
+            }
+        },
+        "ml": {
+            "title": "Python ile Makine Öğrenimi",
+            "description": "Python, scikit-learn ve TensorFlow kullanarak ileri seviye makine öğrenimi ve görsel işleme projeleri geliştiriyorum. Yüz tanıma sistemleri, el hareketleriyle Spotify kontrolü, görsel fark analizi ve 2D görüntü işleme gibi uygulamalarda aktif olarak çalışıyorum.",
+            "features": [
+                "Yüz tanıma sistemleri geliştirme",
+                "Görsel işleme ve obje tanıma",
+                "El hareketleri ile kontrol uygulamaları (Spotify gibi)",
+                "İki resim arasındaki farkı hesaplama",
+                "Makine öğrenimi model eğitimi ve optimizasyonu"
+            ],
+            "projects": {
+                "face_recognition": {
+                    "name": "Yüz Tanıma Sistemi",
+                    "description": "Python ile yüz tanıma ve kimlik doğrulama uygulamaları geliştirme."
+                },
+                "hand_gesture_spotify": {
+                    "name": "El Hareketleri ile Spotify Kontrolü",
+                    "description": "El hareketleri algılama ve Spotify kontrolü sağlayan sistem geliştirme."
+                },
+                "image_difference": {
+                    "name": "Görsel Fark Analizi",
+                    "description": "İki görüntü arasındaki farkı hesaplayan görüntü işleme uygulamaları geliştirme."
+                }
+            }
+        }
+    },
+    "qualification_title": "Eğitimim",
+    "my_personal_journey": "Kişisel Yolculuğum",
+    "education": "Eğitim",
+    "experience": "Deneyim",
+    "qualification_items": {
+        "education": [
+            {
+                "title": "Yazılım Mühendisliği, Lisans, 3.35 GPA",
+                "subtitle": "Ostim Teknik Üniversitesi, Ankara, Türkiye",
+                "date": "2020-2024"
+            },
+            {
+                "title": "Narlıdere Uğur Anadolu Lisesi",
+                "subtitle": "İzmir, Türkiye",
+                "date": "2016-2020"
+            }
+        ],
+        "experience": [
+            {
+                "title": "Backend Developer",
+                "subtitle": "EA Bilişim ve Telekomünikasyon, İzmir, Türkiye",
+                "date": "09/2024 – Aktif"
+            },
+            {
+                "title": "Mobil Uygulama Geliştirici(Uzun Süreli Staj)",
+                "subtitle": "Fark Bilgi İşlem, Ankara, Türkiye",
+                "date": "01/2024 – 06/2024"
+            },
+            {
+                "title": "Yarı Zamanlı Pozisyon",
+                "subtitle": "Ostim Teknik Üniversitesi IT Departmanı, Ankara, Türkiye",
+                "date": "01/2024 – 03/2024"
+            },
+            {
+                "title": "Mobil Uygulama Geliştirici(Staj)",
+                "subtitle": "Yaşar Bilgi İşlem, İzmir, Türkiye",
+                "date": "07/2023 – 08/2023"
+            },
+            {
+                "title": "Stajyer",
+                "subtitle": "Pi Health, Ankara, Türkiye",
+                "date": "02/2023 – 03/2023"
+            },
+            {
+                "title": "Stajyer",
+                "subtitle": "ARCA Teknoloji, Ankara, Türkiye",
+                "date": "02/2022 – 03/2022"
+            }
+        ]
+    },
+    "contact_me": "Benimle İletişime Geç",
+    "talk_to_me": "Benimle konuş",
+    "email": "E-posta",
+    "write_me": "Mesaj gönder",
+    "linkedin": "Linkedin",
+    "hire_me_message": "Benimle iletişime geç",
+    "name": "İsim",
+    "mail": "E-posta",
+    "company": "Şirket",
+    "name_placeholder": "İsminizi girin",
+    "mail_placeholder": "E-posta adresinizi girin",
+    "message_placeholder": "Mesajınızı yazın.",
+    "send_message": "Mesaj Gönder",
+    "footer": {
+        "rights": "Tüm hakları saklıdır.",
+        "menu": {
+            "about": "Hakkımda",
+            "skills": "Yeteneklerim",
+            "fields": "Alanlarım",
+            "qualification": "Eğitimim",
+            "contact": "İletişim"
+        }
+    },
+    "view_details": "Detayları Gör",
+    "visit_project": "Projeyi Ziyaret Et",
+    "tech_modal": {
+        "title": "Kullanılan Teknolojiler",
+        "description": "Bu portfolyo aşağıdaki teknolojiler kullanılarak oluşturulmuştur:"
+    },
+    "blog": {
+        "title_short": "Blog",
+        "button_text": "Yazılarım",
+        "title": "Bilgi Bankası",
+        "subtitle": "Yazılarım ve Teknik Paylaşımlarım",
+        "search_placeholder": "Başlık veya içerikte ara...",
+        "filter_by_tags": "Etikete Göre Filtrele",
+        "all_tags": "Tümü",
+        "read_more": "Devamını Oku",
+        "posts": [
+            {
+                "id": 1,
+                "title": "C++'da Gelişmiş Bellek Yönetimi: Stack vs. Heap",
+                "date": "2024-07-21",
+                "tags": [
+                    "C++",
+                    "Memory Management",
+                    "Systems Programming"
+                ],
+                "content": "<p>C++'da bellek yönetimi, yüksek performanslı ve kararlı uygulamalar geliştirmenin temel taşıdır. Belleğin verimli kullanılması, sızıntıların önlenmesi ve optimizasyon, özellikle sistem programlama ve endüstriyel uygulamalarda kritik öneme sahiptir.</p><h4>Stack ve Heap Bellek Alanları</h4><p><b>Stack:</b> Statik bellek ayırımı için kullanılır. Fonksiyon çağrıları ve lokal değişkenler burada tutulur. Hızlı erişim sağlar ancak boyutu sınırlıdır. Derleme zamanında boyutu bilinir.</p><p><b>Heap:</b> Dinamik bellek ayırımı için kullanılır. <i>new</i> ve <i>delete</i> operatörleri ile yönetilir. Büyük veri yapıları ve çalışma zamanında boyutu belli olmayan nesneler için idealdir ancak yönetimi daha karmaşıktır ve yavaştır.</p><h4>Akıllı İşaretçiler (Smart Pointers)</h4><p>Modern C++'da bellek sızıntılarını önlemek için <i>RAII (Resource Acquisition Is Initialization)</i> prensibini uygulayan akıllı işaretçiler kullanılır:</p><ul><li><b>unique_ptr:</b> Tek bir sahiplik (ownership) modelidir. İşaret ettiği nesnenin ömrü sona erdiğinde belleği otomatik olarak serbest bırakır. Kopyalanamaz, sadece taşınabilir (move).</li><li><b>shared_ptr:</b> Paylaşılan sahiplik modelidir. Bir referans sayacı tutar. İşaretçiyi kopyaladıkça sayaç artar, bir kopya yok olduğunda azalır. Sayaç sıfıra ulaştığında bellek serbest bırakılır. Döngüsel referans (circular dependency) riskine dikkat edilmelidir.</li><li><b>weak_ptr:</b> <i>shared_ptr</i> ile birlikte kullanılır ve sahiplik paylaşmaz. Döngüsel referans sorununu çözmek için idealdir.</li></ul>"
+            },
+            {
+                "id": 2,
+                "title": "React'te Modern State Yönetimi: Hooks & Context API",
+                "date": "2024-07-20",
+                "tags": [
+                    "React",
+                    "JavaScript",
+                    "Frontend",
+                    "State Management"
+                ],
+                "content": "<p>React, bileşen tabanlı mimarisiyle modern web geliştirmenin en popüler kütüphanelerinden biridir. Uygulama karmaşıklığı arttıkça, bileşenler arası veri akışını ve state'i yönetmek zorlaşabilir. Bu yazıda, React'in sunduğu modern state yönetimi çözümlerini inceleyeceğiz.</p><h4>Temel Hook'lar</h4><ul><li><b>useState:</b> Fonksiyonel bileşenlerde lokal state tutmak için kullanılır. Bir state değişkeni ve onu güncelleyecek bir fonksiyon döndürür.</li><li><b>useEffect:</b> Bileşenin render edilmesinden sonra yan etkileri (side effects) çalıştırmak için kullanılır. API istekleri, DOM manipülasyonları veya abonelikler gibi işlemler burada yönetilir.</li></ul><h4>Global State için Context API</h4><p>Bileşen ağacında state'i derinlere (prop drilling) geçirmek yerine, global olarak erişilebilir bir state oluşturmak için Context API kullanılır. Bir <i>Provider</i> bileşeni ile state sağlanır ve <i>useContext</i> hook'u ile ağacın herhangi bir yerindeki bileşen bu state'e erişebilir. Redux gibi harici kütüphanelere basit bir alternatif sunar.</p>"
+            },
+            {
+                "id": 3,
+                "title": "gRPC ve REST API: Hangi Durumda Hangisi Kullanılmalı?",
+                "date": "2024-07-22",
+                "tags": [
+                    "gRPC",
+                    "REST",
+                    "Backend",
+                    "Microservices",
+                    "API"
+                ],
+                "content": "<p>Mikroservis mimarileri ve modern API'ler geliştirirken en sık karşılaşılan iki standart gRPC ve REST'tir. İkisi de güçlü çözümler sunsa da farklı senaryolar için tasarlanmışlardır.</p><h4>REST (Representational State Transfer)</h4><p>REST, HTTP protokolü üzerine kurulu, basit ve esnek bir mimari stildir. Genellikle JSON formatında veri alışverişi yapar ve standart HTTP metodlarını (GET, POST, PUT, DELETE) kullanır. İnsan tarafından okunabilir olması ve geniş tarayıcı desteği sayesinde genel amaçlı API'ler için popüler bir tercihtir.</p><ul><li><b>Avantajları:</b> Basitlik, esneklik, geniş uyumluluk, durumsuz (stateless) yapı.</li><li><b>Dezavantajları:</b> Daha yavaş olabilen metin tabanlı JSON formatı, tek yönlü iletişim.</li></ul><h4>gRPC (Google Remote Procedure Call)</h4><p>gRPC, Google tarafından geliştirilen, yüksek performanslı bir RPC (Remote Procedure Call) framework'üdür. Veri serileştirme için Protocol Buffers (Protobuf) kullanır ve HTTP/2 üzerinde çalışır. Bu sayede ikili (binary) veri formatı ve çift yönlü streaming gibi gelişmiş özellikler sunar.</p><ul><li><b>Avantajları:</b> Yüksek performans, düşük gecikme, çift yönlü streaming, güçlü tip güvenliği.</li><li><b>Dezavantajları:</b> Sınırlı tarayıcı desteği (proxy gerektirir), insan tarafından okunması zor binary format.</li></ul><h4>Ne Zaman Hangisini Seçmeli?</h4><ul><li><b>REST:</b> Herkese açık API'ler, web istemcileri (tarayıcılar) ve basit veri CRUD işlemleri için idealdir.</li><li><b>gRPC:</b> Mikroservisler arası iletişim, mobil uygulamalar, gerçek zamanlı uygulamalar ve düşük gecikme gerektiren yüksek performanslı senaryolar için mükemmeldir.</li></ul>"
+            },
+            {
+                "id": 4,
+                "title": "Spring Boot'un Temel Taşları: Her Geliştiricinin Bilmesi Gerekenler",
+                "date": "2024-07-19",
+                "tags": [
+                    "Spring Boot",
+                    "Java",
+                    "Backend",
+                    "Architecture"
+                ],
+                "content": "<p>Spring Boot, Java ekosisteminde modern ve sağlam uygulamalar geliştirmeyi son derece basitleştiren bir framework'tür. Peki, bu gücün arkasındaki temel kavramlar nelerdir?</p><h4>Dependency Injection (DI) ve Inversion of Control (IoC)</h4><p>IoC, bir nesnenin bağımlılıklarını (dependencies) kendisinin oluşturması yerine, bu sorumluluğu dış bir güce (Spring IoC Container) devretmesi prensibidir. Dependency Injection ise bu prensibi uygulamanın bir yoludur. Spring, <i>@Autowired</i> annotasyonu ile bir sınıfın ihtiyaç duyduğu nesneleri otomatik olarak 'enjekte eder'. Bu, sınıflar arasında gevşek bağlılık (loose coupling) sağlar ve test edilebilirliği artırır.</p><h4>Auto-Configuration</h4><p>Spring Boot'un en sihirli özelliklerinden biridir. Projenizin classpath'indeki JAR dosyalarına bakarak, uygulamanızın ihtiyaç duyabileceği bean'leri ve konfigürasyonları otomatik olarak yapar. Örneğin, projenize Spring Data JPA eklerseniz, bir veritabanı bağlantısı için gerekli tüm yapılandırmayı sizin için hazırlar.</p><h4>Katmanlı Mimari ve Annotasyonlar</h4><p>Spring Boot, katmanlı mimariyi destekler ve bu katmanları yönetmek için bir dizi kullanışlı annotasyon sunar:</p><ul><li><b>@RestController:</b> Bir sınıfın RESTful API endpoint'lerini barındırdığını belirtir.</li><li><b>@Service:</b> İş mantığı (business logic) katmanını temsil eder.</li><li><b>@Repository:</b> Veri erişim (data access) katmanını (DAO) işaretler.</li><li><b>@Component:</b> Spring tarafından yönetilmesi gereken genel bir bileşendir.</li></ul>"
+            },
+            {
+                "id": 5,
+                "title": ".NET'in Gücü: Neden Sadece C#'dan İbaret Değil?",
+                "date": "2024-07-18",
+                "tags": [
+                    ".NET",
+                    "C#",
+                    "Backend",
+                    "Performance"
+                ],
+                "content": "<p>.NET (eski adıyla .NET Core), Microsoft'un modern, cross-platform ve yüksek performanslı uygulamalar geliştirmek için sunduğu açık kaynaklı bir platformdur. Onu güçlü kılan bazı temel özelliklere göz atalım.</p><h4>Yüksek Performans</h4><p>Modern .NET, en hızlı backend framework'lerinden biridir. Kestrel web sunucusu, optimize edilmiş JIT (Just-In-Time) derleyicisi ve bellek yönetimi iyileştirmeleri sayesinde, minimum kaynakla maksimum verim sağlar. Bu da onu yüksek trafikli API'ler ve mikroservisler için ideal kılar.</p><h4>Middleware Pipeline</h4><p>ASP.NET Core'da gelen her HTTP isteği, bir middleware 'pipeline'ı (boru hattı) üzerinden geçer. Her bir middleware bileşeni, isteği inceleyebilir, değiştirebilir veya bir sonraki bileşene aktarabilir. Bu yapı, authentication, logging, caching gibi çapraz kesen (cross-cutting) endişeleri modüler bir şekilde yönetmeyi kolaylaştırır.</p><h4>Dahili Dependency Injection (DI)</h4><p>Spring Boot gibi, .NET de dahili bir Dependency Injection container'ı ile birlikte gelir. Servislerinizi <i>Program.cs</i> (veya <i>Startup.cs</i>) dosyasında kaydederek, ihtiyaç duyulan herhangi bir constructor veya metoda otomatik olarak enjekte edilmelerini sağlayabilirsiniz. Bu, esnek ve test edilebilir kod yazmayı teşvik eder.</p><h4>Entity Framework Core (EF Core)</h4><p>EF Core, .NET için geliştirilmiş modern bir ORM (Object-Relational Mapper)'dir. LINQ (Language-Integrated Query) kullanarak SQL sorgularını doğrudan C# kodu içinde yazmanıza olanak tanır. Veritabanı tablolarını C# sınıflarıyla eşleyerek, veritabanı işlemlerini soyutlar ve basitleştirir.</p>"
+            }
+        ]
+    }
+}

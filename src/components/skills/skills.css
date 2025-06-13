@@ -1,0 +1,157 @@
+.skills__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.skills__content {
+  background-color: var(--container-color);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 2rem 4rem;
+  border-radius: 1.25rem;
+}
+
+.skills__icon {
+  font-size: 1.1rem;
+  color: var(--title-color);
+  animation: fadeInUp 0.6s ease forwards;
+
+}
+
+
+.skills__title {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+  text-align: center;
+  margin-bottom: var(--mb-1-5);
+}
+
+.skills__box {
+  display: flex;
+  justify-content: center;
+  column-gap: 2.5rem;
+}
+
+.skills__group {
+  display: grid;
+  align-items: flex-start;
+  row-gap: 1rem;
+}
+
+/* .skills__data{
+    display: flex;
+    column-gap: 0.5rem;
+    animation: fadeInUp 0.6s ease forwards;
+
+} */
+
+.skills .bx-badge-check {
+  font-size: 1rem;
+  color: var(--title-color);
+}
+
+.skills__name {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+  line-height: 18px;
+}
+
+.skills__level {
+  font-size: var(--tiny-font-size);
+}
+
+/* animation */
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes bounceUpDown {
+  0% {
+    transform: translateX(0);
+  }
+
+  25% {
+    transform: translateX(-2px);
+  }
+
+  75% {
+    transform: translateX(2px);
+  }
+
+  100% {
+    transform: translateX(0px);
+  }
+}
+
+/* İlk görünmede yukarı kaydırma ve görünürlük animasyonu */
+.skills__data {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+/* Büyük ekranlarda animasyonu etkinleştir */
+@media screen and (min-width: 1471px) {
+  .animate-skills {
+    opacity: 1;
+    transform: translateY(0);
+    animation: bounceUpDown 4s ease-in-out infinite alternate;
+  }
+}
+
+/* Küçük ekranlarda animasyon devre dışı bırakıldı */
+@media screen and (max-width: 1471px) {
+  .animate-skills {
+    opacity: 1;
+    transform: translateY(0);
+    animation: none;
+  }
+}
+
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+  .skills__container {
+    max-width: 100%;
+    padding: 1rem;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .skills__container {
+    padding: 0.75rem 0.5rem;
+  }
+
+  .skills__content {
+    padding: 1.5rem;
+  }
+}
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+  .skills__container {
+    padding: 0.5rem 0.25rem;
+  }
+
+  .skills__box {
+    column-gap: 1.25rem;
+  }
+
+  .skills__name {
+    font-size: var(--small-font-size);
+  }
+}

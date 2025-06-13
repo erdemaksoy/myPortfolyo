@@ -1,0 +1,437 @@
+{
+    "welcome": "Welcome to my portfolio",
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "fields": "Fields",
+    "qualification": "Qualification",
+    "projects": "Projects",
+    "contact": "Contact",
+    "software_engineer": "Software Engineer",
+    "description": "I am a 22 years old, software engineer. Agile and adaptive to new technologies. Try to learn new things and improve myself in every software technology.",
+    "say_hello": "Say Hello",
+    "scroll_down": "Scroll Down",
+    "about_me": "About Me",
+    "my_introduction": "My introduction",
+    "about_description_1": "In 2024, I graduated with a GPA of 3.35 in Software Engineering. I am ambitious and a fast learner, excelling in teamwork, multitasking, and productivity. I am passionate about learning new things and strive to improve myself every day.",
+    "about_description_2": "<div class='about__skills-list'><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-brackets-curly'></i>Systems Programming</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>High-performance algorithms and data structures</li><li><i class='uil uil-check-circle'></i>Memory optimization and management</li><li><i class='uil uil-check-circle'></i>Desktop interfaces and embedded systems</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-web-grid'></i>Web Frontend</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>Responsive and dynamic user interfaces</li><li><i class='uil uil-check-circle'></i>Modern animations and interactive components</li><li><i class='uil uil-check-circle'></i>Performance optimization and SEO-friendly structures</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-mobile-android'></i>Mobile Development</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>Cross-platform mobile applications</li><li><i class='uil uil-check-circle'></i>Native features and hardware integrations</li><li><i class='uil uil-check-circle'></i>Performance-focused mobile experiences</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-server-network'></i>Backend</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>RESTful and gRPC API design and development</li><li><i class='uil uil-check-circle'></i>Microservice architectures</li><li><i class='uil uil-check-circle'></i>Scalable and secure systems</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-cloud'></i>Cloud & DevOps</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>Cloud-based architecture design</li><li><i class='uil uil-check-circle'></i>CI/CD processes and automation</li><li><i class='uil uil-check-circle'></i>Containerization and orchestration</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-store'></i>Market Processes</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>App store optimization</li><li><i class='uil uil-check-circle'></i>Version management and distribution strategies</li><li><i class='uil uil-check-circle'></i>User feedback analysis</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-cloud-computing'></i>Cloud Services</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>High availability and disaster recovery</li><li><i class='uil uil-check-circle'></i>Auto-scaling solutions</li><li><i class='uil uil-check-circle'></i>Security and compliance standards</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-database'></i>Database</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>Relational and NoSQL database design</li><li><i class='uil uil-check-circle'></i>Performance optimization and query tuning</li><li><i class='uil uil-check-circle'></i>Data modeling and normalization</li></ul></div><div class='about__skill-item'><h3 class='about__skill-title'><i class='uil uil-desktop'></i>Operating Systems</h3><ul class='about__skill-list'><li><i class='uil uil-check-circle'></i>Cross-platform development and deployment</li><li><i class='uil uil-check-circle'></i>System configuration and optimization</li><li><i class='uil uil-check-circle'></i>Shell scripting and automation</li></ul></div></div><p style='text-align:center; margin-top: 2rem;'>I build sustainable and scalable projects by following modern software development principles.</p>",
+    "download_cv": "Download CV",
+    "languages": "Languages",
+    "tools": "Tools",
+    "active_used": "Actively Used",
+    "completed": "Completed",
+    "projects_count": "15 + Projects",
+    "learns_easily": "Learns Easily",
+    "experienced": "Experienced in all fields",
+    "my_technical_level": "My Technical Level",
+    "what_i_do": "What do I do?",
+    "view_more": "View More",
+    "technologies_used": "Technologies Used",
+    "related_projects": "Related Projects",
+    "view_code": "View Code",
+    "view_project": "View Project",
+    "language_descriptions": {
+        "C": "I have experience with basic algorithms and data structures in C language. Implementing low-level system operations and memory management.",
+        "C++": "Strong foundation in systems programming. Particularly experienced in memory management, heap and stack optimization. Worked on sorting algorithms (QuickSort, MergeSort, HeapSort) and search algorithms (Binary Search, DFS, BFS). Developing performance-oriented solutions using the STL library effectively.",
+        "C#": "I developed applications with .NET Framework and .NET Core using C#.",
+        "QML": "Developing embedded system interfaces with QT framework. Creating responsive and interactive UI components for desktop applications.",
+        "React": "Expert in developing modern and interactive web applications.",
+        "React Native": "Developing cross-platform mobile applications using both Expo and CLI workflows. Experienced in native modules, performance optimization, and custom animations. Effectively utilizing Expo services (notifications, updates, build) for streamlined development.",
+        "Flutter": "Creating performant and user-friendly cross-platform mobile applications. Implementing custom widgets and state management solutions.",
+        "Dart": "Using Dart programming language with Flutter framework for building robust mobile and web applications.",
+        ".NET": "Developing high-performance web applications and APIs with NET Core. Managing databases with ORM-based Entity Framework Core. Developing projects adhering to Dependency Injection and Clean Architecture principles.",
+        "HTML5": "Building SEO-friendly and accessible web applications using semantic HTML structures. Actively using modern HTML5 features like Canvas, WebSocket, and Local Storage.",
+        "CSS3": "Creating responsive and mobile-first designs using modern CSS features (Grid, Flexbox, Custom Properties). Enhancing user experience with CSS animations, transitions, and transforms. Building modular and maintainable style structures with SCSS/SASS.",
+        "JavaScript": "Developing modern JavaScript applications using ES6+ features. Expert in asynchronous programming (Promises, async/await), module systems, and modern DOM manipulation. Implementing event-driven programming and performance optimization.",
+        "TypeScript": "Building large-scale applications with type-safe code structure. Enhancing code quality using advanced TypeScript features like Interfaces, Generic types, and Decorators. Minimizing error potential with strict type checking.",
+        "PHP": "Developing modern web applications with object-oriented PHP. Writing PSR-compliant code and managing packages with Composer. Implementing performance improvements with PHP-FPM and OpCache optimizations.",
+        "Laravel": "Building web applications and RESTful APIs with MVC architecture. Effectively using Eloquent ORM, Queue systems, and Cache mechanisms. Creating dynamic views with Blade template engine.",
+        "Python": "Developing data analytics and backend systems.",
+        "Java": "Developing native Android applications and backend systems. Implementing enterprise-level Java applications with Spring framework.",
+        "Kotlin": "Creating modern Android applications with Kotlin. Utilizing coroutines for asynchronous programming and Jetpack components.",
+        "Spring Boot": "Developing microservice architectures and RESTful APIs. Implementing secure authentication and authorization systems with Spring Security. Optimizing database operations with JPA/Hibernate.",
+        "Node.js": "Developing high-performance backend systems and APIs. Creating scalable applications with event-driven architectures and non-blocking I/O.",
+        "Go": "Basic level microservice application development.",
+        "SQL": "Performing complex database queries and optimizations. Effectively using stored procedures, triggers, and index structures. Implementing performance improvements through query optimization and execution plan analysis.",
+        "Socket.IO": "Developing real-time, bidirectional communication web applications. Enabling instant data flow with event-based architecture, creating customized broadcasts using room logic."
+    },
+    "tool_descriptions": {
+        "VsCode": "Using as main development environment. Optimizing development process with custom extensions and snippets. Actively using Git integration and debugging features.",
+        "Visual Studio": "Developing .NET projects.",
+        "Android Studio": "Using for native Android applications and React Native projects. Effectively utilizing emulator management, performance profiling, and debugging tools.",
+        "QT Creator": "Developing embedded system interfaces.",
+        "Bootstrap": "Using for responsive web designs. Rapid prototyping with grid system, ready-to-use components, and utility classes. Creating brand-aligned designs with SCSS customizations.",
+        "Tailwind CSS": "Creating customizable and performant UI designs with utility-first approach. Optimizing bundle size using JIT compiler. Developing custom plugins and theme configurations.",
+        "Rive": "Creating interactive animations.",
+        "MongoDB": "Developing NoSQL database solutions.",
+        "MySQL": "Preferred for relational database management. Experienced in normalization, indexing, and query optimization. Implementing replication and backup strategies.",
+        "MSSQL": "Creating enterprise database solutions.",
+        "PostgreSQL": "Using for complex data structures and large-scale applications. Actively utilizing JSON data type, full-text search, and spatial data features.",
+        "Redis": "Developing high-performance caching solutions.",
+        "Firebase": "Using Realtime Database, Authentication, and Cloud Messaging services. Setting up comprehensive backend infrastructure with Hosting and Storage solutions.",
+        "Azure": "Developing cloud-based solutions.",
+        "AWS": "Using scalable cloud services.",
+        "Docker": "Developing containerized applications. Creating multi-container setups with Docker Compose for microservice architectures. Implementing continuous deployment through Docker integration in CI/CD pipelines.",
+        "OneSignal": "Integrating cross-platform push notification systems. Creating segment-based and scheduled notifications, collecting analytics data.",
+        "Elasticsearch": "Implementing advanced search solutions.",
+        "SonarQube": "Performing code quality and security analysis.",
+        "Ubuntu": "Using as Linux-based development and deployment environment. Performing shell scripting, service management, and security configurations.",
+        "Windows": "Using as Windows-based development environment. Integrating Linux tools with PowerShell scripting and WSL."
+    },
+    "services": {
+        "linux": {
+            "title": "Linux",
+            "description": "I have experience in Linux system administration and configuration, setting up and optimizing systems with tools like Virtual Machine Manager and Proxmox Mail Gateway.",
+            "features": [
+                "Linux system installation and configuration",
+                "Experience with distributions like Manjaro and Ubuntu",
+                "Virtual Machine Manager-based virtualization"
+            ],
+            "projects": {
+                "virtual_machine": {
+                    "name": "Virtual Machine Setup",
+                    "description": "Linux system installation and management on virtual machines."
+                },
+                "mail_server": {
+                    "name": "Mail Server",
+                    "description": "Building a functional Odoo mail server with Proxmox Mail Gateway for anti-spam filtering."
+                }
+            }
+        },
+        "seo": {
+            "title": "SEO",
+            "description": "I optimize web applications for SEO to improve visibility and accessibility.",
+            "features": [
+                "SEO-friendly web development",
+                "Performance and page speed optimization",
+                "Metadata and structured data management"
+            ],
+            "projects": {
+                "portfolio_website": {
+                    "name": "Personal Portfolio Website",
+                    "description": "SEO-optimized and fast-loading portfolio site."
+                }
+            }
+        },
+        "party_integrations": {
+            "title": "3rd Party Integrations",
+            "description": "I develop integrated solutions with payment, notification, and map services.",
+            "features": [
+                "Integrations with Iyzico and Papara payment gateways",
+                "Push notifications with OneSignal and Expo",
+                "Firebase Realtime Database integration",
+                "Google Maps API integration"
+            ],
+            "projects": {
+                "ecommerce_api": {
+                    "name": "Payment Integration API",
+                    "description": "Backend API development for e-commerce with payment integrations."
+                },
+                "notification_service": {
+                    "name": "Notification Service",
+                    "description": "Building notification infrastructure with OneSignal and Expo Push."
+                }
+            }
+        },
+        "restful": {
+            "title": "RESTful API",
+            "description": "I design and develop secure, scalable RESTful APIs using Laravel and .NET Core.",
+            "features": [
+                "Secure and scalable API development",
+                "Database integrations with MS SQL, MySQL",
+                "Documentation with Swagger/OpenAPI"
+            ],
+            "projects": {
+                "ecommerce_api": {
+                    "name": "E-Commerce API",
+                    "description": "RESTful API for online shopping management with Laravel."
+                },
+                "customer_verification": {
+                    "name": "Customer Verification API",
+                    "description": "Real-time customer verification system for Flutter applications."
+                }
+            }
+        },
+        "flutter": {
+            "title": "Mobile",
+            "description": "I develop cross-platform mobile applications using Flutter for both Android and iOS devices, ensuring high performance and smooth user experience.",
+            "features": [
+                "Cross-platform app development",
+                "Real-time data management with Firebase",
+                "Push notification integration"
+            ],
+            "projects": {
+                "chat_app": {
+                    "name": "Real-time Chat App",
+                    "description": "Cross-platform chat app using Firebase Realtime Database."
+                },
+                "customer_query_app": {
+                    "name": "Customer Query App",
+                    "description": "Data visualization and customer management features."
+                }
+            }
+        },
+        "react": {
+            "title": "WEB & Mobile UI/UX with React and React Native",
+            "description": "I build modern, responsive web and mobile interfaces using React and React Native. On the web, I focus on scalable and intuitive UIs, while on mobile I developed various apps like crossword puzzles, step counters, and Spotify API integrated applications.",
+            "features": [
+                "Responsive web and mobile UI development",
+                "Component-based scalable architecture",
+                "State management with Redux and Context API",
+                "Mobile device feature integration and API connections"
+            ],
+            "projects": {
+                "portfolio": {
+                    "name": "Personal Portfolio",
+                    "description": "SEO-optimized and responsive portfolio website built with React."
+                },
+                "admin_dashboard": {
+                    "name": "Admin Dashboard",
+                    "description": "React-based data visualization dashboard for admin panels."
+                },
+                "mobile_apps": {
+                    "name": "Mobile Applications",
+                    "description": "Mobile projects like a crossword puzzle app, step counter, and Spotify-integrated application built with React Native."
+                }
+            }
+        },
+        "database": {
+            "title": "Database",
+            "description": "I design, implement, and manage robust database systems ensuring efficient data storage, retrieval, and security.",
+            "features": [
+                "Database design and normalization",
+                "SQL and NoSQL database management",
+                "Data security and backup solutions"
+            ],
+            "projects": {
+                "schema_design": {
+                    "name": "Database Schema Design",
+                    "description": "Optimized schema design for e-commerce solutions."
+                },
+                "nosql_project": {
+                    "name": "NoSQL Data Structures",
+                    "description": "Building and managing MongoDB collections."
+                }
+            }
+        },
+        "algorithms": {
+            "title": "Algorithms with C++, QT, Java",
+            "description": "I develop high-performance algorithms and system software for real-time and embedded systems using C++, QT, and Java. My expertise includes memory management, heap/stack optimization, real-time data processing, and multithreading.",
+            "features": [
+                "Real-time target tracking and data processing algorithms",
+                "Memory management and heap/stack optimization",
+                "Sorting and searching algorithms (e.g., radar, sensor data)",
+                "Low-level optimizations for embedded systems",
+                "Multithreading and concurrency management"
+            ],
+            "projects": {
+                "memory_management": {
+                    "name": "Advanced Memory Management Module",
+                    "description": "Dynamic memory management on heap and stack."
+                },
+                "realtime_tracking": {
+                    "name": "Real-Time Tracking System",
+                    "description": "Fast sorting and searching algorithms for sensor data."
+                },
+                "embedded_optimization": {
+                    "name": "Embedded System Optimizations",
+                    "description": "Performance-enhancing algorithms for embedded systems using QT and C++."
+                }
+            }
+        },
+        "webDev": {
+            "title": "Web Development",
+            "description": "I develop modern corporate and e-commerce websites using React, Laravel, and Node.js, ensuring scalability and performance.",
+            "features": [
+                "Responsive web design and development",
+                "Frontend frameworks: React, Angular",
+                "Backend development with Node.js, PHP",
+                "Real-time communication with Socket.IO"
+            ],
+            "projects": {
+                "corporate_and_ecommerce_website": {
+                    "name": "Corporate and E-Commerce Websites",
+                    "description": "Full-stack corporate identity and e-commerce web projects."
+                },
+                "realtime_chat_web": {
+                    "name": "Real-time Web Chat",
+                    "description": "Socket.IO based real-time chat application."
+                }
+            }
+        },
+        "ml": {
+            "title": "Machine Learning with Python",
+            "description": "I develop advanced machine learning and computer vision projects using Python, TensorFlow, and scikit-learn, including face recognition systems, hand gesture Spotify control, visual difference detection, and complex image processing tasks.",
+            "features": [
+                "Face recognition system development",
+                "Computer vision and object detection",
+                "Hand gesture-controlled applications (e.g., Spotify)",
+                "Calculating visual differences between images",
+                "Model training and optimization"
+            ],
+            "projects": {
+                "face_recognition": {
+                    "name": "Face Recognition System",
+                    "description": "Face detection and authentication system using Python."
+                },
+                "hand_gesture_spotify": {
+                    "name": "Hand Gesture Controlled Spotify",
+                    "description": "Controlling Spotify using hand gestures with computer vision."
+                },
+                "image_difference": {
+                    "name": "Visual Difference Detection",
+                    "description": "Detecting and calculating differences between two images."
+                }
+            }
+        }
+    },
+    "qualification_title": "Qualification",
+    "my_personal_journey": "My Personal Journey",
+    "education": "Education",
+    "experience": "Experience",
+    "qualification_items": {
+        "education": [
+            {
+                "title": "Software Engineering, Bachelor, 3.35 GPA",
+                "subtitle": "Ostim Technical University, Ankara, Turkey",
+                "date": "2020-2024"
+            },
+            {
+                "title": "NarlıdereUğur Anatolian High School",
+                "subtitle": "İzmir, Turkey",
+                "date": "2016-2020"
+            }
+        ],
+        "experience": [
+            {
+                "title": "Backend Developer",
+                "subtitle": "EA Bilişim ve Telekomünikasyon, İzmir, Turkey",
+                "date": "09/2024 – Active"
+            },
+            {
+                "title": "Mobile App Developer(Long-Term Internship)",
+                "subtitle": "Fark Bilgi İşlem, Ankara, Turkey",
+                "date": "01/2024 – 06/2024"
+            },
+            {
+                "title": "Part-Time Position",
+                "subtitle": "Ostim Technical University IT Department, Ankara, Turkey",
+                "date": "01/2024 – 03/2024"
+            },
+            {
+                "title": "Mobile App Developer(Internship)",
+                "subtitle": "Yaşar Bilgi İşlem, İzmir, Turkey",
+                "date": "07/2023 – 08/2023"
+            },
+            {
+                "title": "Intern",
+                "subtitle": "Pi Health, Ankara, Turkey",
+                "date": "02/2023 – 03/2023"
+            },
+            {
+                "title": "Intern",
+                "subtitle": "ARCA Teknoloji, Ankara, Turkey",
+                "date": "02/2022 – 03/2022"
+            }
+        ]
+    },
+    "contact_me": "Contact Me",
+    "talk_to_me": "Talk to me",
+    "email": "Email",
+    "write_me": "Write me",
+    "linkedin": "Linkedin",
+    "hire_me_message": "Contact with me",
+    "name": "Name",
+    "mail": "Mail",
+    "company": "Company",
+    "name_placeholder": "Insert your name",
+    "mail_placeholder": "Insert your email",
+    "message_placeholder": "Write your message.",
+    "send_message": "Send Message",
+    "footer": {
+        "rights": "All rights reserved.",
+        "menu": {
+            "about": "About",
+            "skills": "Skills",
+            "fields": "Fields",
+            "qualification": "Qualification",
+            "contact": "Contact"
+        }
+    },
+    "view_details": "View Details",
+    "visit_project": "Visit Project",
+    "tech_modal": {
+        "title": "Technologies Used",
+        "description": "This portfolio has been built using the following technologies:"
+    },
+    "blog": {
+        "title_short": "Blog",
+        "subtitle": "My Articles and Technical Posts",
+        "search_placeholder": "Search in title or content...",
+        "filter_by_tags": "Filter by Tag",
+        "all_tags": "All",
+        "read_more": "Read More",
+        "posts": [
+            {
+                "id": 1,
+                "title": "Advanced Memory Management in C++: Stack vs. Heap",
+                "date": "2024-07-21",
+                "tags": [
+                    "C++",
+                    "Memory Management",
+                    "Systems Programming"
+                ],
+                "content": "<p>In C++, memory management is a cornerstone for developing high-performance and stable applications. Efficient memory usage, preventing leaks, and optimization are critical, especially in systems programming and industrial applications.</p><h4>Stack and Heap Memory Areas</h4><p><b>Stack:</b> Used for static memory allocation. Function calls and local variables are stored here. It provides fast access but has a limited size, which is known at compile time.</p><p><b>Heap:</b> Used for dynamic memory allocation. It is managed via <i>new</i> and <i>delete</i> operators. Ideal for large data structures and objects whose size is not known at compile time, but it is slower and more complex to manage.</p><h4>Smart Pointers</h4><p>In modern C++, smart pointers that apply the <i>RAII (Resource Acquisition Is Initialization)</i> principle are used to prevent memory leaks:</p><ul><li><b>unique_ptr:</b> A single ownership model. It automatically releases memory when the object it points to goes out of scope. It cannot be copied, only moved.</li><li><b>shared_ptr:</b> A shared ownership model. It keeps a reference counter. The counter increments as you copy the pointer and decrements when a copy is destroyed. Memory is released when the counter reaches zero. Be cautious of circular dependency risks.</li><li><b>weak_ptr:</b> Used in conjunction with <i>shared_ptr</i> but does not share ownership. It's ideal for breaking circular references.</li></ul>"
+            },
+            {
+                "id": 2,
+                "title": "Modern State Management in React: Hooks & Context API",
+                "date": "2024-07-20",
+                "tags": [
+                    "React",
+                    "JavaScript",
+                    "Frontend",
+                    "State Management"
+                ],
+                "content": "<p>React is one of the most popular libraries for modern web development with its component-based architecture. As application complexity grows, managing data flow and state between components can become challenging. In this post, we'll explore the modern state management solutions offered by React.</p><h4>Essential Hooks</h4><ul><li><b>useState:</b> Used to manage local state in functional components. It returns a state variable and a function to update it.</li><li><b>useEffect:</b> Used to perform side effects after a component renders. Operations like API requests, DOM manipulations, or subscriptions are managed here.</li></ul><h4>Context API for Global State</h4><p>Instead of passing state deep down the component tree (prop drilling), the Context API is used to create a globally accessible state. A <i>Provider</i> component provides the state, and any component in the tree can access this state using the <i>useContext</i> hook. It offers a simple alternative to external libraries like Redux.</p>"
+            },
+            {
+                "id": 3,
+                "title": "gRPC vs. REST API: Which One to Choose?",
+                "date": "2024-07-22",
+                "tags": [
+                    "gRPC",
+                    "REST",
+                    "Backend",
+                    "Microservices",
+                    "API"
+                ],
+                "content": "<p>When developing microservice architectures and modern APIs, gRPC and REST are two of the most common standards. While both offer powerful solutions, they are designed for different scenarios.</p><h4>REST (Representational State Transfer)</h4><p>REST is a simple and flexible architectural style built on the HTTP protocol. It typically exchanges data in JSON format and uses standard HTTP methods (GET, POST, PUT, DELETE). Its human-readability and broad browser support make it a popular choice for general-purpose APIs.</p><ul><li><b>Advantages:</b> Simplicity, flexibility, wide compatibility, stateless nature.</li><li><b>Disadvantages:</b> Text-based JSON format can be slower, unidirectional communication.</li></ul><h4>gRPC (Google Remote Procedure Call)</h4><p>gRPC is a high-performance RPC (Remote Procedure Call) framework developed by Google. It uses Protocol Buffers (Protobuf) for data serialization and runs on HTTP/2. This enables advanced features like a binary data format and bidirectional streaming.</p><ul><li><b>Advantages:</b> High performance, low latency, bidirectional streaming, strong type safety.</li><li><b>Disadvantages:</b> Limited browser support (requires a proxy), binary format is not human-readable.</li></ul><h4>When to Choose Which?</h4><ul><li><b>REST:</b> Ideal for public APIs, web clients (browsers), and simple data CRUD operations.</li><li><b>gRPC:</b> Perfect for communication between microservices, mobile applications, real-time applications, and high-performance scenarios requiring low latency.</li></ul>"
+            },
+            {
+                "id": 4,
+                "title": "Core Concepts of Spring Boot: What Every Developer Should Know",
+                "date": "2024-07-19",
+                "tags": [
+                    "Spring Boot",
+                    "Java",
+                    "Backend",
+                    "Architecture"
+                ],
+                "content": "<p>Spring Boot is a framework that dramatically simplifies the development of modern, robust applications in the Java ecosystem. But what are the core concepts behind this power?</p><h4>Dependency Injection (DI) and Inversion of Control (IoC)</h4><p>IoC is the principle where an object delegates the responsibility of creating its dependencies to an external force (the Spring IoC Container). Dependency Injection is a way to implement this principle. Spring automatically 'injects' the objects a class needs using the <i>@Autowired</i> annotation. This promotes loose coupling between classes and increases testability.</p><h4>Auto-Configuration</h4><p>This is one of Spring Boot's most magical features. It automatically configures the beans and settings your application might need by looking at the JAR files in your project's classpath. For example, if you add Spring Data JPA to your project, it will prepare all the necessary configuration for a database connection for you.</p><h4>Layered Architecture and Annotations</h4><p>Spring Boot supports a layered architecture and provides a set of useful annotations to manage these layers:</p><ul><li><b>@RestController:</b> Indicates that a class hosts RESTful API endpoints.</li><li><b>@Service:</b> Represents the business logic layer.</li><li><b>@Repository:</b> Marks the data access layer (DAO).</li><li><b>@Component:</b> A generic component that should be managed by Spring.</li></ul>"
+            },
+            {
+                "id": 5,
+                "title": "The Power of .NET: Why It's More Than Just C#",
+                "date": "2024-07-18",
+                "tags": [
+                    ".NET",
+                    "C#",
+                    "Backend",
+                    "Performance"
+                ],
+                "content": "<p>.NET (formerly .NET Core) is an open-source platform from Microsoft for building modern, cross-platform, and high-performance applications. Let's look at some of the key features that make it so powerful.</p><h4>High Performance</h4><p>Modern .NET is one of the fastest backend frameworks available. Thanks to the Kestrel web server, an optimized JIT (Just-In-Time) compiler, and memory management improvements, it provides maximum efficiency with minimal resources. This makes it ideal for high-traffic APIs and microservices.</p><h4>Middleware Pipeline</h4><p>In ASP.NET Core, every incoming HTTP request passes through a middleware pipeline. Each middleware component can inspect, modify, or pass the request to the next component. This structure makes it easy to manage cross-cutting concerns like authentication, logging, and caching in a modular way.</p><h4>Built-in Dependency Injection (DI)</h4><p>Like Spring Boot, .NET comes with a built-in Dependency Injection container. By registering your services in the <i>Program.cs</i> (or <i>Startup.cs</i>) file, you can have them automatically injected into any constructor or method that needs them. This encourages writing flexible and testable code.</p><h4>Entity Framework Core (EF Core)</h4><p>EF Core is a modern ORM (Object-Relational Mapper) for .NET. It allows you to write SQL queries directly in C# code using LINQ (Language-Integrated Query). By mapping database tables to C# classes, it abstracts and simplifies database operations.</p>"
+            }
+        ]
+    }
+}
