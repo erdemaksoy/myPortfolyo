@@ -365,6 +365,7 @@
         "description": "This portfolio has been built using the following technologies:"
     },
     "blog": {
+        "button_text": "View Blogs",
         "title_short": "Blog",
         "subtitle": "My Articles and Technical Posts",
         "search_placeholder": "Search in title or content...",
